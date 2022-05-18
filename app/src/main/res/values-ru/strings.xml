@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRCoder</string>
+    <string name="generate">Создать QR</string>
+    <string name="scan">Сканировать</string>
+    <string name="enter_the_text">Введите текст…</string>
+    <string name="enter_the_text_toast">Вам нужно ввести текст!</string>
+    <string name="text_copied">Текст скопирован!</string>
+    <string name="qr_was_save">QR код был сохранен!</string>
+</resources>

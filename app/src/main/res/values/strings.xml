@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QRCoder</string>
+    <string name="generate">Create QR</string>
+    <string name="scan">Scan QR</string>
+    <string name="enter_the_text">Enter the text…</string>
+    <string name="enter_the_text_toast">You need to enter the text!</string>
+    <string name="text_copied">Text Copied!</string>
+    <string name="qr_was_save">The QR code has been saved!</string>
+
+</resources>
